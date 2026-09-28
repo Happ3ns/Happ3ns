@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Akshat 👋
 
-<!--
-**Happ3ns/Happ3ns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student in Kanpur, India. I build small tools — mostly machine learning, mostly to solve problems I have.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+
+- **[Weather-Predictor](https://github.com/Happ3ns/Weather-predictor)** — Random Forest classifier trained on 105k real CPCB observations. Chronological split, persistence baseline, **67.1% accuracy vs 61.6% baseline**.
+- **[JEE-Quiz-Studio](https://github.com/Happ3ns/JEE-Quiz-Generator)** — Zero-dependency quiz app with per-topic accuracy tracking. Built to make my own revision more targeted.
+
+**Writing**
+
+- [What I Learned Trying to Predict Kanpur's Air Quality](https://happ3ns.github.io/blog/aqi-predictor.html) — Why 67% accuracy taught me more than 90% would have.
+
+**Find me**
+
+- Portfolio: [happ3ns.github.io](https://happ3ns.github.io)
+- Email: [akshatkharkwal39@gmail.com](mailto:akshatkharkwal39@gmail.com)
