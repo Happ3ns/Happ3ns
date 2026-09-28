@@ -1,6 +1,6 @@
 ### Hi, I'm Akshat 👋
 
-Student in Kanpur, India. I build small tools — mostly machine learning, mostly to solve problems I have.
+Student. I build small tools — mostly machine learning, mostly to solve problems I have.
 
 ---
 
