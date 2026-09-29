@@ -7,7 +7,10 @@ Student. I build small tools — mostly machine learning, mostly to solve proble
 **Projects**
 
 - **[Weather-Predictor](https://github.com/Happ3ns/Weather-predictor)** — Random Forest classifier trained on 105k real CPCB observations. Chronological split, persistence baseline, **67.1% accuracy vs 61.6% baseline**.
+
 - **[JEE-Quiz-Studio](https://github.com/Happ3ns/JEE-Quiz-Generator)** — Zero-dependency quiz app with per-topic accuracy tracking. Built to make my own revision more targeted.
+
+- **[Assistive Stick](https://github.com/Happ3ns/assistive-stick)** — Arduino walking stick for visually impaired navigation. Ultrasonic obstacle detection with distance-scaled beep frequency. Team project — I wrote the firmware.
 
 **Writing**
 
