@@ -1,10 +1,12 @@
-### Hi, I'm Akshat 👋
+### Hi, I'm Akshat 
 
 Student. I build small tools — mostly machine learning, mostly to solve problems I have.
 
 ---
 
 **Projects**
+
+- **[Singapore Island Biodiversity](https://github.com/Happ3ns/singapore-island-biodiversity)** — Remote-sensing ML pipeline predicting vegetation change on Singapore's micro-islands. Sentinel-2 NDVI + 22k iNaturalist observations → XGBoost, **33% better RMSE than persistence baseline**. [Live map](https://happ3ns.github.io/singapore-island-biodiversity/) · [Writeup](https://github.com/Happ3ns/singapore-island-biodiversity/blob/main/writeup.md). Honest finding: current 10m satellite data can't yet resolve year-over-year change on islands this small.
 
 - **[JARVIS](https://github.com/Happ3ns/jarvis)** — Autonomous AI assistant with tool calling, persistent memory, RAG, browser automation, multi-agent workflows, voice interaction, and runtime tool generation.
 
