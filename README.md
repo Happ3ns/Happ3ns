@@ -6,7 +6,7 @@ Student. I build small tools — mostly machine learning, mostly to solve proble
 
 **Projects**
 
-- **[Antigravity Studio](https://github.com/Happ3ns/antigravity-hub)** — Full-fidelity iPadOS & Desktop agentic coding environment featuring 24 Plugins, autonomous subagents fleet, custom MCP server bridging, live background cron automation engine, and Retina Obsidian UI. [Live App](https://happ3ns.github.io/antigravity-hub/).
+- **[Antigravity Studio](https://github.com/Happ3ns/antigravity-hub)** — Cloud agentic coding workspace for web and iPadOS backed by a pre-installed Vercel Gemini proxy, multi-turn tool loop (live web search, multi-repo GitHub inspection/commits, isolated JS VM + in-browser Pyodide Python), multimodal vision, and Studio artifacts. [Live App](https://antigravity-hub-eight.vercel.app).
 
 - **[Singapore Island Biodiversity](https://github.com/Happ3ns/singapore-island-biodiversity)** — Remote-sensing ML pipeline predicting vegetation change on Singapore's micro-islands. Sentinel-2 NDVI + 22k iNaturalist observations → XGBoost, **33% better RMSE than persistence baseline**. [Live map](https://happ3ns.github.io/singapore-island-biodiversity/) · [Writeup](https://github.com/Happ3ns/singapore-island-biodiversity/blob/main/writeup.md). Honest finding: current 10m satellite data can't yet resolve year-over-year change on islands this small.
 
